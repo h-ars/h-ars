@@ -1,24 +1,100 @@
-# 💫 About Me:
-<br><br>Fullstack engineer working in React, TypeScript, Node.js, and MongoDB — I like building things end-to-end rather than staying in one lane.<br><br>- 🎓 BCA grad (DSEU), currently deepening data/AI skills through IIT Roorkee's Data Analytics & GenAI program<br>- 🛠️ Recent work: [venerato.vercel.app](https://venerato.vercel.app) — portfolio + playground for UI experiments<br>- 🔭 Currently hunting for my first full-time SWE role, building projects that actually solve problems rather than checking boxes<br>- ⚡ Also into automotive engineering and home-labbing when I'm not staring at a terminal
+<div align="center">
 
+<!-- Responsive Light/Dark Banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=2E2620&height=200&section=header&text=%20&fontSize=0">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FBF8F1&height=200&section=header&text=%20&fontSize=0">
+  <img alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=FBF8F1&height=200&section=header&text=%20&fontSize=0" width="100%">
+</picture>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/so_hars) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Harsh Bhardwaj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/so_hars) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.harsh.contact@gmail.com) 
+<!-- Large Centered Title -->
+# Hey there, I'm [YOUR_NAME] 👋
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=h-ars&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=h-ars&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=h-ars&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- Animated Typing Text -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=B8935A&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;React+%7C+TypeScript+%7C+Node.js;Building+things+end-to-end;Open+to+opportunities)](https://git.io/typing-svg)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=h-ars&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<!-- Ivory Badges -->
+<p>
+  <img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?label=Followers&style=for-the-badge&color=FBF8F1&labelColor=2E2620&logo=github&logoColor=FBF8F1" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/[YOUR_USERNAME]/[REPO_NAME]?label=Stars&style=for-the-badge&color=FBF8F1&labelColor=2E2620&logo=github&logoColor=FBF8F1" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile+Views&style=for-the-badge&color=FBF8F1&labelColor=2E2620" alt="Profile Views"/>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=h-ars&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧭 About Me
+
+<table>
+<tr>
+<td width="65%" valign="middle">
+
+I'm a full-stack engineer working across **React**, **TypeScript**, **Node.js**, and **MongoDB** — I like shipping things end-to-end rather than staying in one lane.
+
+- 🎓 [YOUR_DEGREE], currently deepening my skills in [YOUR_CURRENT_PROGRAM]
+- 🛠️ Recent work: [[YOUR_PROJECT_NAME]]([YOUR_PROJECT_URL])
+- 🔭 Currently focused on [YOUR_CURRENT_GOAL]
+- 🌱 Learning [YOUR_LEARNING_TOPIC] right now
+- ⚡ Outside of code: [YOUR_HOBBY_1], [YOUR_HOBBY_2]
+- 📫 Reach me at [YOUR_EMAIL]
+
+</td>
+<td width="35%" valign="middle" align="center">
+<img src="[YOUR_IMAGE_URL]" width="220" style="border-radius: 50%; border: 3px solid #B8935A;" alt="profile picture"/>
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+## 🧰 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,typescript,nodejs,mongodb,express,tailwind,git,docker,linux,figma&theme=light" alt="tech stack icons"/>
+
+<br><br>
+
+## 📊 GitHub Stats
+
+<img src="https://streak-stats.demolab.com/?user=[YOUR_USERNAME]&background=FBF8F1&border=B8935A&stroke=2E2620&ring=B8935A&fire=B8935A&currStreakLabel=2E2620&currStreakNum=2E2620&sideLabels=2E2620&sideNums=2E2620&dates=B8935A&hide_border=false" alt="GitHub Streak Stats" width="48%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&bg_color=FBF8F1&color=2E2620&line=B8935A&point=2E2620&area=true&hide_border=true" alt="GitHub Activity Graph" width="90%"/>
+
+<br><br>
+
+## 🐍 Contribution Snake
+
+<!--
+  Setup required (one-time):
+  1. Add a new workflow file at: .github/workflows/snake.yml
+  2. Use the official action from github.com/Platane/snk
+  3. On each push/schedule it generates an SVG on an "output" branch
+  4. The <picture> below auto-pulls that SVG — nothing else to configure
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg" width="90%">
+</picture>
+
+<br><br>
+
+## 🔗 Connect With Me
+
+<p>
+  <a href="[https://www.linkedin.com/in/dev-harsh-bhardwaj/]"><img src="https://img.shields.io/badge/LinkedIn-2E2620?style=for-the-badge&logo=linkedin&logoColor=FBF8F1" alt="LinkedIn"/></a>
+  <a href="[YOUR_X_URL]"><img src="https://img.shields.io/badge/X-2E2620?style=for-the-badge&logo=x&logoColor=FBF8F1" alt="X"/></a>
+  <a href="[YOUR_INSTAGRAM_URL]"><img src="https://img.shields.io/badge/Instagram-2E2620?style=for-the-badge&logo=instagram&logoColor=FBF8F1" alt="Instagram"/></a>
+  <a href="[YOUR_TIKTOK_URL]"><img src="https://img.shields.io/badge/TikTok-2E2620?style=for-the-badge&logo=tiktok&logoColor=FBF8F1" alt="TikTok"/></a>
+  <a href="[YOUR_YOUTUBE_URL]"><img src="https://img.shields.io/badge/YouTube-2E2620?style=for-the-badge&logo=youtube&logoColor=FBF8F1" alt="YouTube"/></a>
+  <a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-2E2620?style=for-the-badge&logo=gmail&logoColor=FBF8F1" alt="Email"/></a>
+</p>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FBF8F1&height=150&section=footer&text=Thanks%20for%20visiting!%20✨&fontColor=2E2620&fontSize=20&animation=fadeIn" width="100%"/>
