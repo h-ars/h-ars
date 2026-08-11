@@ -1,11 +1,18 @@
 <div align="center">
 
 <!-- Responsive Light/Dark Banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FBF8F1&height=200&section=header&text=%20&fontSize=0">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=3F4A52&height=200&section=header&text=%20&fontSize=0">
-  <img alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=3F4A52&height=200&section=header&text=%20&fontSize=0" width="100%">
-</picture>
+<div align="center">
+
+<!-- ASCII Tiger Banner -->
+<img src="https://github.com/h-ars/h-ars/blob/main/assets/asciify-tiger.svg?raw=true" alt="ASCII tiger art" width="600"/>
+
+<!-- Large Centered Title -->
+# Hey there, I'm Harsh 👋
+
+<!-- Animated Typing Text -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=8C9A7B&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;React+%7C+TypeScript+%7C+Node.js;Building+things+end-to-end;Open+to+opportunities)](https://git.io/typing-svg)
+
+</div>
 
 <!-- Large Centered Title -->
 # Hey there, I'm Harsh 👋
