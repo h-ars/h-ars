@@ -1,10 +1,7 @@
 <div align="center">
 
-<!-- Responsive Light/Dark Banner -->
-<div align="center">
-
 <!-- ASCII Tiger Banner -->
-<img src="https://github.com/h-ars/h-ars/blob/main/assets/asciify-tiger.svg?raw=true" alt="ASCII tiger art" width="600"/>
+<img src="https://github.com/h-ars/h-ars/blob/main/assets/asciify-tiger.png?raw=true" alt="ASCII tiger art" width="600"/>
 
 <!-- Large Centered Title -->
 # Hey there, I'm Harsh 👋
