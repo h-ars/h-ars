@@ -14,14 +14,6 @@
 
 </div>
 
-<!-- Large Centered Title -->
-# Hey there, I'm Harsh 👋
-
-<!-- Animated Typing Text -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=8C9A7B&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;React+%7C+TypeScript+%7C+Node.js;Building+things+end-to-end;Open+to+opportunities)](https://git.io/typing-svg)
-
-</div>
-
 <br>
 
 ## 🧭 About Me
